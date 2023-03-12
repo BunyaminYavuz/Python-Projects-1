@@ -1,2 +1,2 @@
 # Python-Projects-1
-Python Projects 1
+Python Basic Projects from my college time
